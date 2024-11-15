@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&family=Young+Serif&display=swap');
+
+#SA{
+    width:100%;
+    object-fit: fill;
+}
+  #p1{
+    padding-right: 20px;
+  }
+  #fo{
+ font-size: 70px;
+ color:rgb(243, 207, 7);
+ font-family: "Lemon", serif;
+ font-weight: 400;
+ font-style: normal;
+
+  }
+  #movi:hover{
+    opacity: 0.7;
+    cursor: pointer;
+    }
+   #ap{
+    width: 400px;
+    height:450px;
+    background: #081c36;
+    position: relative;
+    display: flex;
+    place-content: center;
+    overflow: hidden;
+    border-radius: 20px;
+    color: white;
+    }
+ 
